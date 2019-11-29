@@ -10,6 +10,8 @@ npm install -g expo-cli
 
 expo init projectname
 
+expo install expo-location 안되면 npm install expo-location
+
 
 ```
 
